@@ -34,8 +34,7 @@ jobs:
       run: |
         git config --global user.name "Sujaicodes"
         git config --global user.email "sujaishukla55555@gmail.com"
-        git fetch origin main
-        git reset --hard origin/main
+        git pull
         git add .
-        git commit -m "Auto update dashboard" || echo "No changes"
+        git commit -m "Auto update dashboard $(date)" || echo "No changes"
         git push
