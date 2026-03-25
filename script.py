@@ -1,6 +1,9 @@
 import requests
 from datetime import datetime
 
+import os
+os.getenv("GROQ_API_KEY")
+
 # ---- CONFIG ----
 API_KEY = "b4194471d5254484872163149251206"
 CITY = "Chennai"
