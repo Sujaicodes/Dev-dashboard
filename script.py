@@ -22,13 +22,18 @@ news_url = f"https://newsapi.org/v2/top-headlines?country=in&category=technology
 news_response = requests.get(news_url)
 news_data = news_response.json()
 
-articles = news_data["articles"][:5]
-
 news_list = ""
-for article in articles:
-    title = article["title"]
-    news_list += f"- {title}\n"
-    
+
+if news_data.get("status") == "ok":
+    articles = news_data.get("articles", [])[:5]
+
+    for article in articles:
+        title = article.get("title", "No title")
+        news_list += f"- {title}\n"
+else:
+    news_list = "Unable to fetch news (API issue)"
+
+print(news_data)
 # ---- TIME ----
 now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
@@ -47,7 +52,7 @@ Condition: {condition}
 ---
 
 ## 📰 Top Tech News
-{news_list}
+{news_list if news_list else "No news available right now."}
 
 ---
 
