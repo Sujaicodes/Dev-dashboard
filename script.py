@@ -88,6 +88,11 @@ Condition: {condition}
 
 ---
 
+## 🧠 AI Insight
+{ai_output}
+
+---
+
 ## 🔥 Daily Update
 Keeping the repo active automatically!
 
