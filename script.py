@@ -14,6 +14,21 @@ data = response.json()
 temp = data["current"]["temp_c"]
 condition = data["current"]["condition"]["text"]
 
+# ---- NEWS API ----
+NEWS_API_KEY = "b3627940bba147568e4d150c345774e0"
+
+news_url = f"https://newsapi.org/v2/top-headlines?country=in&category=technology&apiKey={NEWS_API_KEY}"
+
+news_response = requests.get(news_url)
+news_data = news_response.json()
+
+articles = news_data["articles"][:5]
+
+news_list = ""
+for article in articles:
+    title = article["title"]
+    news_list += f"- {title}\n"
+    
 # ---- TIME ----
 now = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
