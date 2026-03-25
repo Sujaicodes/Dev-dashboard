@@ -1,20 +1,15 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-03-25 18:45:46
+🕒 Last Updated: 2026-03-25 18:59:12
 
 ---
 
 ## 🌦️ Weather in Chennai
-Sunny ☀️
+Temperature: 28.2°C  
+Condition: Clear
 
 ---
 
-## 🧠 Daily Insight
-"Stay consistent. Small steps every day = big results."
-
----
-
-## ⚡ About This Project
-Built an automated developer dashboard using Python and GitHub Actions that fetches real-time data and updates dynamically on a daily schedule.
----
+## ⚡ About
+Auto-updated using Python + GitHub Actions
