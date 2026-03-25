@@ -21,22 +21,21 @@ jobs:
       with:
         python-version: '3.10'
 
-
     - name: Install dependencies
       run: pip install requests groq
 
     - name: Run script
       run: python script.py
       env:
-       GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-       NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-
+        GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+        NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
 
     - name: Commit changes
       run: |
         git config --global user.name "Sujaicodes"
         git config --global user.email "sujaishukla55555@gmail.com"
-        git pull
+        git fetch origin main
+        git reset --hard origin/main
         git add .
         git commit -m "Auto update dashboard" || echo "No changes"
         git push
