@@ -46,6 +46,11 @@ Condition: {condition}
 
 ---
 
+## 📰 Top Tech News
+{news_list}
+
+---
+
 ## ⚡ About
 Auto-updated using Python + GitHub Actions
 """
