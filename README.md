@@ -1,7 +1,7 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-03-25 19:51:51
+🕒 Last Updated: 2026-03-25 20:03:09
 
 ---
 
@@ -12,14 +12,17 @@ Condition: Clear
 ---
 
 ## 📰 Top Tech News
-- Pomerantz Law Firm Announces the Filing of a Class Action Against Enphase Energy, Inc.and Certain Officers – ENPH
-- Utilities commissioner warns against ‘throwing good money after bad’
-- Apple Testing Standalone Siri App and Major AI Overhaul for iOS 27
-- IRS faces AI skills gaps after pushing tech talent out, watchdog finds
-- Euromonitor Reveals Top Global Shoe Brands in New Report
+- US stocks today: Dow Jones falls 84 points, S&P, Nasdaq over 0.3% on worries about Middle East war, interest rates
+- The Business Literacy Gap in Design Leadership
+- As Climate Change Exacerbates Extreme Weather, Olive Oil Feels the Squeeze
+- Arm Unveils New AGI CPU With Meta As Debut Customer
+- ASUS Chromebook CM30 (2024) Detachable Touchscreen 8GB RAM 128GB eMMC (Refurb) for $149
 
 
 ---
+
+## 🧠 AI Insight
+GROQ API key missing.
 
 ## ⚡ About
 Auto-updated using Python + GitHub Actions
