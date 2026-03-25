@@ -44,7 +44,7 @@ if GROQ_API_KEY:
 
         if news_text.strip():  # only if news exists
             response = client.chat.completions.create(
-                model="llama3-8b-8192",
+                model="mixtral-8x7b-32768",
                 messages=[
                     {"role": "system", "content": "Summarize the news and give one short insight."},
                     {"role": "user", "content": news_text}
