@@ -7,7 +7,7 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-03-25 21:10:04
+🕒 Last Updated: 2026-03-25 21:14:09
 
 ---
 
@@ -24,11 +24,6 @@ Condition: Clear
 - Overhyped? New Poll Suggests Americans Are Shunning AI as a Breaking News Source
 - What to expect during Nutanix .NEXT: Join theCUBE April 8
 
-
----
-
-## 🧠 AI Insight
-Error generating AI insight: Error code: 400 - {'error': {'message': 'The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.', 'type': 'invalid_request_error', 'code': 'model_decommissioned'}}
 
 ---
 
