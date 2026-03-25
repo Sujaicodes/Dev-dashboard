@@ -1,8 +1,35 @@
 import requests
 from datetime import datetime
 
+from groq import Groq
 import os
-os.getenv("GROQ_API_KEY")
+
+groq_key = os.getenv("GROQ_API_KEY")
+
+ai_output = "AI insight not available."
+
+if groq_key:
+    try:
+        client = Groq(api_key=groq_key)
+
+        news_text = "\n".join([article.get("title", "") for article in articles])
+
+        response = client.chat.completions.create(
+            model="llama3-8b-8192",
+            messages=[
+                {"role": "system", "content": "Summarize the news and give one short insight."},
+                {"role": "user", "content": news_text}
+            ]
+        )
+
+        ai_output = response.choices[0].message.content
+
+    except Exception as e:
+        ai_output = f"Error generating AI insight: {e}"
+else:
+    ai_output = "GROQ API key missing."
+
+
 
 # ---- CONFIG ----
 API_KEY = "b4194471d5254484872163149251206"
@@ -58,6 +85,9 @@ Condition: {condition}
 {news_list if news_list else "No news available right now."}
 
 ---
+
+## 🧠 AI Insight
+{ai_output}
 
 ## ⚡ About
 Auto-updated using Python + GitHub Actions
