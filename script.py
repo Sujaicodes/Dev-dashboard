@@ -53,15 +53,16 @@ news_response = requests.get(news_url)
 news_data = news_response.json()
 
 news_list = ""
+articles = []   # ✅ define globally
 
-if news_data.get("status") == "ok":
-    articles = news_data.get("articles", [])[:5]
+if news_data.get("status") == "ok" and news_data.get("articles"):
+    articles = news_data["articles"][:5]
 
     for article in articles:
         title = article.get("title", "No title")
         news_list += f"- {title}\n"
 else:
-    news_list = "Unable to fetch news (API issue)"
+    news_list = "No news available right now."
 
 print(news_data)
 # ---- TIME ----
