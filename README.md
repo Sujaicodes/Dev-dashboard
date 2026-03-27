@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-03-27 09:49:07
+🕒 Last Updated: 2026-03-27 15:57:35
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 31.1°C  
-Condition: Sunny
+Temperature: 29.1°C  
+Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- Presentation: Open Source, Community, and Consequence: The Story of MongoDB
-- Why OpenAI’s Pivot to Enterprise is Starting to Look ‘Desperate
-- Microsoft HR head Amy Coleman sends a strong 'let go' message to employees. Here's what her email read
-- The versatile Play speaker is a great way into the Sonos world
-- Are Russia and China losing their grip on the Middle East?
+- The AI infrastructure bottleneck: Why ‘good enough’ Kubernetes isn’t cutting it anymore
+- Exploring a common architecture platform for local government
+- Why is US stock market crashing today? Dow, Nasdaq, S&P 500 down as oil prices surge - here's why tech stocks falling faster than the broader market
+- Samsung is already working on the Exynos 2800 SoC for the Galaxy S28
+- AMD's Ryzen 9950X3D2 chip features an incredible 208MB of on-chip cache
 
 
 ---
