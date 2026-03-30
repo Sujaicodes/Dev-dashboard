@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-03-30 10:11:47
+🕒 Last Updated: 2026-03-30 16:08:18
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 34.0°C  
-Condition: Sunny
+Temperature: 29.4°C  
+Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- Police used AI facial recognition to arrest a Tennessee woman for crimes committed in a state she says she’s never visited
-- Meta’s Ray-Ban Gen 3 Smart Glasses to Feature Screenless Design
-- Chinese analogue chipmakers join wave of global price rises as mature-node firms eye gains
-- Mexico Week – David Muñiz: Between the Archive and the Algorithm
-- ‘A genuine masterpiece’: The 15 best Apple gadgets of the last 50 years, according to you
+- TechCrunch Mobility: When a robotaxi has to call 911 | TechCrunch
+- The rise and fall of IBM's 4 Pi aerospace computers: an illustrated history
+- Refrigerator that runs without electricity: Check out this clay invention that costs less than a summer electricity bill
+- Iran warns U.S. ground troops would be 'set on fire' and Pakistan says it will host U.S.-Iran talks
+- Iran warns U.S. ground troops would be 'set on fire' as regional diplomats meet in Pakistan to discuss the war
 
 
 ---
