@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-03-31 16:08:21
+🕒 Last Updated: 2026-04-01 05:17:42
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 29.3°C  
-Condition: Clear
+Temperature: 31.3°C  
+Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- Draft IT Rules widen govt oversight to user-generated news content
-- Elysian Strengthens Technology Leadership with Appointment of Chief Technology Officer
-- Apple Gearing Up For Its Biggest Ever OLED Screen In An iMac By 2030
-- ‘My house is tilting’: Furious Las Vegas homeowners say $1M+ homes crumbling in just 5 years. How to protect your home
-- Publication of the 2025 Annual Report
+- More Insurance M&A Deals on the Horizon?
+- What Are AI Agents and How Do They Work?
+- Hacked Hospitals, Hidden Spyware: Iran Conflict Shows Digital Fight in Warfare
+- Rockchip RK3506J-based Forlinx FCU1501 fanless industrial IoT gateway offers dual Ethernet, plenty of I/Os and serial interfaces
+- High-tech goods flows are a counterweight to the Middle East crisis
 
 
 ---
