@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-02 04:57:41
+🕒 Last Updated: 2026-04-02 09:55:51
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 32.2°C  
-Condition: Partly cloudy
+Temperature: 33.3°C  
+Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- Bharti Airtel shares up after $1 billion Nxtra deal
-- Vrchol Finviora Review: Genuine Trading Platform or Fake? Reality Check
-- Telink TL3228 – Low-power, low-latency dual-core RISC-V wireless MCU supports Bluetooth 6.0, 802.15.4, and 2.4 GHz proprietary
-- Researchers say quantum computers could, in theory, be ready by 2030
-- RecCloud動画翻訳機能を大規模アップデート
+- Iran Threatens to Target U.S. Tech Firms
+- DJI Pocket 4 Specs Officially Confirmed : Complete Breakdown Guide
+- ADNOC, OMV Launch New Polyolefins JV
+- Could a solar storm derail the Artemis II mission?
+- How Taiwan came to dominate the global chip industry
 
 
 ---
