@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-03 04:59:32
+🕒 Last Updated: 2026-04-03 09:47:31
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 31.2°C  
+Temperature: 33.1°C  
 Condition: Partly cloudy
 
 ---
 
 ## 📰 Top Tech News
-- IT is no longer the job hub of India but aspirations remain: Kamal Karanth, Co-Founder of Xpheno
-- How Homes in the 1970s Kept Warm With Less Heating
-- AUO has announced the 'world's first' 24-inch 1080p gaming monitor capable of 800Hz
-- 11 Old-Fashioned Relationship Habits We Should Bring Back for Good
-- Health is Wealth - Eventeny
+- 20th National Assembly session begins, Dahal emphasizes coordination and constructive debate
+- How CIOs can build energy-resilient IT infrastructure
+- 50 years of Apple: From Apple II to iPhone, these 10 shaped Apple’s half-century-long run
+- Have a strong brand in a world of noise—it’s like having the only red T-shirt in a stadium full of white ones
+- Word of the Day: Inchoate
 
 
 ---
