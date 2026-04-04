@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-04 09:32:24
+🕒 Last Updated: 2026-04-04 15:36:37
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 34.3°C  
-Condition: Partly cloudy
+Temperature: 30.2°C  
+Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Exynos 2600 is back in the Galaxy S26, but Snapdragon 8 Elite still runs the show
-- Bail for the former director in the incident where the government allegedly lost 90 lakhs at the Deyata Kirula exhibition.
-- Think Robots Are Impressive Now? Just Wait Until They Have 6G
-- MTN finalises separation of mobile money into standalone fintech in Ghana
-- Naoris Protocol's quantum-resistant blockchain goes live as Bitcoin and Ethereum face 'Q-Day' threats
+- Car site Edmunds tests a $25K Chinese hybrid SUV — and issues warning to US automakers: ‘Technology is terrific’
+- Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
+- Vedanta aluminium, zinc production increases; output iron ore, steel, oil & gas down in Jan-Mar
+- Only one U.S. university ranks in the world’s top 10 in STEM. Pfizer’s CEO is calling for change
+- After Missing Girl Is Found Alive After 32 Years, Investigator Left “Dumbfounded” Over What Happened To Her
 
 
 ---
