@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-03 15:41:50
+🕒 Last Updated: 2026-04-04 04:45:41
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 30.3°C  
-Condition: Clear
+Temperature: 31.1°C  
+Condition: Partly cloudy
 
 ---
 
 ## 📰 Top Tech News
-- Dell XPS 14 Breaks 40-Hour Battery Life in Light Browser Test
-- Dell XPS 14 Breaks 40-Hour Battery Life in Light Browser Test
-- Three Undervalued ASX 200 Shares Poised for Strong Growth in 2026
-- Anthropic leak reveals Claude Code tracking user frustration and raises new questions about AI privacy
-- The New Kids on the Feedback Block – Announcing the Customer Feedback Management and Analytics Landscape
+- J-mex accelerates IMU motion capture tech to lower robot training costs
+- Taiwan pushes ahead with AI and tech agenda even as budget deadlock threatens fiscal paralysis
+- AI startup Sarvam close to raising $300 million at $1.5 billion valuation
+- Braves ride an 8-run fifth inning and cruise past the Diamondbacks, 17-2
+- Meath house was a ‘thank you’ gift from the stone men of the west
 
 
 ---
