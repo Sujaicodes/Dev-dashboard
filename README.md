@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-05 05:06:35
+🕒 Last Updated: 2026-04-05 09:34:00
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 33.4°C  
+Temperature: 35.3°C  
 Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- Rising e-cigarette exposures threaten safety of toddlers and infants
-- designboom radar: exhibitions to see around the world this april
-- ‘The spy is the boring guy in a suit’: Inside the State’s military intelligence service
-- Attacks on undersea cables could cut off Ireland from global internet, Government warned
-- Irish public ‘emotionally checking out’ after succession of crises
+- ‘India solidly through global shocks’: EAM Jaishankar calls to ‘hedge, de-risk, diversify’ resources amid West Asia conflict
+- Want To Boost Your HRV? Here Are My Go-To Products For Making My Score Soar
+- AI Ayahuasca Film Lucid Forest | Selected at EXPO OSAKA 2025!
+- Explained: How the deepening Gulf-Iran divide pushed Arab states towards US and Israel
+- How Speed Cameras Measure Your Speed So Accurately
 
 
 ---
