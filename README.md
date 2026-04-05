@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-04 15:36:37
+🕒 Last Updated: 2026-04-05 05:06:35
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 30.2°C  
-Condition: Mist
+Temperature: 33.4°C  
+Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- Car site Edmunds tests a $25K Chinese hybrid SUV — and issues warning to US automakers: ‘Technology is terrific’
-- Mercedes adds steer-by-wire — and a dang steering yoke — to the EQS
-- Vedanta aluminium, zinc production increases; output iron ore, steel, oil & gas down in Jan-Mar
-- Only one U.S. university ranks in the world’s top 10 in STEM. Pfizer’s CEO is calling for change
-- After Missing Girl Is Found Alive After 32 Years, Investigator Left “Dumbfounded” Over What Happened To Her
+- Rising e-cigarette exposures threaten safety of toddlers and infants
+- designboom radar: exhibitions to see around the world this april
+- ‘The spy is the boring guy in a suit’: Inside the State’s military intelligence service
+- Attacks on undersea cables could cut off Ireland from global internet, Government warned
+- Irish public ‘emotionally checking out’ after succession of crises
 
 
 ---
