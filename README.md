@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-06 05:16:49
+🕒 Last Updated: 2026-04-06 10:04:41
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 33.1°C  
+Temperature: 30.4°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- How Steven Madow Captured the Artemis II Launch With 14 Cameras
-- Rising Gas Prices Spur Global Shift Toward Electric Vehicles - Elektros Advances Patented Technology Designed to Help Reduce Charging Times
-- Magnificent seven no more as Big Tech stocks hit bear market territory
-- Microsoft is on a new AI journey after reworked OpenAI deal
-- Where to watch NHL 'Inside Out Classic' alt-cast: Live stream, channel, time for Rangers vs. Caps animated broadcast
+- Policy push needed to boost India’s water reuse, says Veolia’s Anne Le Guennec
+- Five years on, we still miss LG phones
+- How Democrats Can Avoid Disaster in the California Governor’s Race
+- AI agents promise to 'run the business,' but who is liable if things go wrong?
+- Nothing Al Smart Glasses : Premium AR Features with Everyday Comfort
 
 
 ---
