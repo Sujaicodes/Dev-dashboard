@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-09 05:04:19
+🕒 Last Updated: 2026-04-09 10:07:49
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 33.2°C  
-Condition: Partly cloudy
+Temperature: 35.0°C  
+Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- Quantum computers keep losing data. This breakthrough finally tracks it
-- iPhone 18 Pro & Pro Max Rumors 2026: Variable Aperture Camera, 2nm A20 Chip & Smaller Dynamic Island
-- China's AI and cloud firms step up use of domestic chips
-- Winning a major Engg challenge
-- FDIC Advances Rulemaking For GENIUS Act: New Framework For Stablecoin Issuers
+- Powered by Nmbr, Paiday Introduces Industry-First Payroll Model for Accounting Firms
+- Satechi’s $130 Foldable 3-in-1 Charger Now Hits 25W for iPhones
+- China intensifies efforts to poach semiconductor talent from Taiwan, claims report — international restrictions motivate illicit efforts to obtain talent and equipment
+- Greece will ban under-15s from social media from 2027, and wants the EU to follow
+- InvestSuite Launches StoryTeller in U.S. Market
 
 
 ---
