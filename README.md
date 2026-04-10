@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-10 05:18:29
+🕒 Last Updated: 2026-04-10 10:04:24
 
 ---
 
 ## 🌦️ Weather in Chennai
 Temperature: 34.1°C  
-Condition: Partly cloudy
+Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- SFO TSA Lines Stay Under 15 Minutes as San Francisco Airport Dodges Shutdown Chaos at Other US Hubs
-- Greece to ban social media for under-15s from next year
-- Anthropic Touts AI Cybersecurity Project With Big Tech Partners
-- Novartis announces expansion of community health programs to close gaps in heart disease and cancer care, targeting more than 30 countries by 2030
-- Basilea awarded additional CARB-X funding of USD 6 million to support the clinical development of antibiotic BAL2420
+- Pentagon's ouster of Anthropic opens doors for small AI rivals
+- Brunswick Corporation Schedules 2026 First Quarter Earnings Conference Call
+- HOKA Speedgoat 7: Through the Senior Product Line Manager’s Eyes
+- HOKA Speedgoat 7: Through the Shoe Designer’s Eyes
+- Fremantle Unveils First Native AI Project: 'Art Awakens'
 
 
 ---
