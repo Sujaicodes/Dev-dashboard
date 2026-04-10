@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-10 10:04:24
+🕒 Last Updated: 2026-04-10 15:58:18
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 34.1°C  
-Condition: Sunny
+Temperature: 30.4°C  
+Condition: Partly cloudy
 
 ---
 
 ## 📰 Top Tech News
-- Pentagon's ouster of Anthropic opens doors for small AI rivals
-- Brunswick Corporation Schedules 2026 First Quarter Earnings Conference Call
-- HOKA Speedgoat 7: Through the Senior Product Line Manager’s Eyes
-- HOKA Speedgoat 7: Through the Shoe Designer’s Eyes
-- Fremantle Unveils First Native AI Project: 'Art Awakens'
+- Another mysterious NASA death as ninth scientist linked to secret programs dies
+- Ceasefire in the Middle East – The Genocide Continues
+- Nutanix to add KubeVirt support to run VMs on K8s at the edge
+- OpenClaw is Dead. Long Live OpenClaw.
+- Calcutta HC allows CBI to re-interrogate RG Kar convict, probe wider conspiracy
 
 
 ---
