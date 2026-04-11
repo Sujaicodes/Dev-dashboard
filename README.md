@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-11 04:49:28
+🕒 Last Updated: 2026-04-11 09:35:00
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 32.0°C  
-Condition: Mist
+Temperature: 35.3°C  
+Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- China Battery Storage Maker Sees Profit Boost from Iran Upheaval
-- University's overseas operations set to come under the microscope
-- Zhen-Ao Group Showcases Core 5'-Nucleotide Breakthroughs in Cambridge, Illuminating a Chinese Path for Global Technology-Driven Anti-Aging
-- USB for software developers
-- This Was the First War Against AI
+- Glass Reinforced Plastic (GRP) Piping Market Trends and Business Opportunities Report, 2026-2035
+- Grok vs Gemini vs ChatGPT: Who Wins the AI Race by 2031?
+- HPF Market Forecast by Type, Form, Application, End-Use Industry, and Region to 2030 - Daikin Industries, AGC, and Chemours Co. Lead the Industry, Growing by $2 Billion Through 2030
+- I didn’t know how much I needed Gemini’s scheduled actions until I tried them
+- Samsung Galaxy S26 vs iPhone 17: Is Apple is Falling Behind?
 
 
 ---
