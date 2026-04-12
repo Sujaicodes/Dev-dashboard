@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-04-12 09:40:20
+🕒 Last Updated: 2026-04-12 15:40:00
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 35.3°C  
-Condition: Sunny
+Temperature: 30.2°C  
+Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- OpenAI CEO’s home hit with Molotov cocktail
-- Trump-linked WLFI hits new low as token-backed loan triggers concern
-- Debate intensifies over reopening the long-dormant Janakpur Cigarette Factory
-- How to build UX using GPT-5.2 + MUI – Use UXPin Merge!
-- Goodbye iPad Mini? How the iPhone Fold’s 7.8-inch Display Redefines “Mobile”
+- Journalists Strike over AI
+- Jim Cramer Weighs In on Callaway Golf Company’s Break-up
+- Every sci-fi show right now says humanity is doomed but this masterpiece disagrees
+- Bitcoin’s $73K Rally Driven By US Investors, Analyst Says
+- 5 Settings You Should Change On Your Samsung TV ASAP
 
 
 ---
