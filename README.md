@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-12 06:08:50
+🕒 Last Updated: 2026-05-12 11:19:36
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 34.0°C  
+Temperature: 33.3°C  
 Condition: Partly cloudy
 
 ---
 
 ## 📰 Top Tech News
-- Geely Auto Group Claims Historic First Victory with the All-New Preface TCR at the FIA TCR WORLD TOUR in Misano
-- 139th Canton Fair: AI, Creative Customization, and Detail-Oriented Design Energize the Stationery Category
-- voidtally added to PyPI
-- Why did Dua Lipa sue Samsung? #lifestyle
-- Weixin Brand Protection Report Marks a Decade of Partnership, Trust, and Progress in IP Protection
+- ALPS agrees to acquire Ohio Bar Liability Insurance Company
+- Conecta Fiction & Entertainment Heads to Magaluf-Mallorca for 10th Edition With AI, Microdrama, Creator Economy in Focus
+- Microsoft feared that OpenAI might jump to Amazon and badmouth Azure "on the way out" — internal emails revealed in court
+- Gold increasingly being bought as an investment asset, not just jewellery: Titan CFO
+- Govt to coordinate with provinces to reduce pesticide use
 
 
 ---
