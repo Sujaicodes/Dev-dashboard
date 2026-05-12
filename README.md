@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-12 11:19:36
+🕒 Last Updated: 2026-05-12 17:12:41
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 33.3°C  
+Temperature: 30.2°C  
 Condition: Partly cloudy
 
 ---
 
 ## 📰 Top Tech News
-- ALPS agrees to acquire Ohio Bar Liability Insurance Company
-- Conecta Fiction & Entertainment Heads to Magaluf-Mallorca for 10th Edition With AI, Microdrama, Creator Economy in Focus
-- Microsoft feared that OpenAI might jump to Amazon and badmouth Azure "on the way out" — internal emails revealed in court
-- Gold increasingly being bought as an investment asset, not just jewellery: Titan CFO
-- Govt to coordinate with provinces to reduce pesticide use
+- Circle Internet Group Q1 Earnings Call Highlights
+- Exagen Q1 Earnings Call Highlights
+- Hypoport Q1 Earnings Call Highlights
+- RadNet Q1 Earnings Call Highlights
+- Apple isn’t bringing Touch ID to Apple Watch, leaker insists
 
 
 ---
