@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-13 06:22:21
+🕒 Last Updated: 2026-05-13 11:29:10
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 34.1°C  
+Temperature: 34.3°C  
 Condition: Partly cloudy
 
 ---
 
 ## 📰 Top Tech News
-- Why AI Native Needs a Reputation Layer
-- Thierry Frémaux Talks New Oscar Rules, “Feminist Washing” ‘Thelma & Louise’ Poster Charge; Berlinale Backlash, AI, Red Carpet Selfies & Hollywood
-- Trump and Xi dialed down the trade war, but challenges lurk at their China summit
-- What to know about Trump-Xi summit with trade, Taiwan and Iran on the agenda
-- In a trial pitting him against Elon Musk, nobody has more to lose than OpenAI CEO Sam Altman
+- T-SQL Tuesday #198–Change Detection
+- Brutal space strategy roguelite Battlestar Galactica: Scattered Hopes is out now
+- GM cuts 500-600 salaried IT roles in global cost and workforce review – report
+- Steve Jobs immortalized in ‘criss-cross’ pose on $1 coin
+- POET Technologies Announces Appointment of Sandeep Kumar as Chief Operating Officer
 
 
 ---
