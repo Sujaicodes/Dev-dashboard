@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-13 11:29:10
+🕒 Last Updated: 2026-05-13 17:18:08
 
 ---
 
 ## 🌦️ Weather in Chennai
-Temperature: 34.3°C  
-Condition: Partly cloudy
+Temperature: 30.1°C  
+Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- T-SQL Tuesday #198–Change Detection
-- Brutal space strategy roguelite Battlestar Galactica: Scattered Hopes is out now
-- GM cuts 500-600 salaried IT roles in global cost and workforce review – report
-- Steve Jobs immortalized in ‘criss-cross’ pose on $1 coin
-- POET Technologies Announces Appointment of Sandeep Kumar as Chief Operating Officer
+- U.S. and Ukraine move closer to landmark drone defense deal, sources say
+- Banking Africa: Cantor8 Moves Deeper Into Africa’s Mobile Money Sector via Yiksi Limited
+- Is the biggest US stock market crash in history coming in 2026? Robert Kiyosaki warns rising debt, sticky inflation and the AI stock bubble could trigger a historic Wall Street collapse
+- Lowe’s, Home Depot could start spying on you using license plate readers in effort to boost safety
+- Target makes major change that will affect almost every shopper
 
 
 ---
