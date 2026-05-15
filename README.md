@@ -11,7 +11,7 @@
 
 ---
 
-## 🌦️ Weather in Chennai
+## 🌦️ Weather in Lucknow
 Temperature: 28.2°C  
 Condition: Patchy light rain
 
