@@ -4,7 +4,7 @@ import os
 from groq import Groq
 
 # ---- CONFIG ----
-CITY = "Chennai"
+CITY = "Lucknow"
 WEATHER_API_KEY = "b4194471d5254484872163149251206"
 NEWS_API_KEY = os.getenv("NEWS_API_KEY") or "b3627940bba147568e4d150c345774e0"
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
