@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-15 11:20:26
+🕒 Last Updated: 2026-05-15 16:38:23
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 28.2°C  
-Condition: Patchy light rain
+Temperature: 31.4°C  
+Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- The Danger of Screens Taking Over Our Lives
-- CMA launches investigation into Microsoft business software
-- What Is BIM Coordination in Construction and Why It Matters?
-- Camera Traps Capture 32 Years of Rarely-Seen Animals on Rainforest Island
-- Former Meta Executive Bar Clara Mendez McConnon Appointed CEO and Managing Partner of Value Gateway Capital Partners
+- NYSE Content Update: Blackstone Digital Infrastructure Debuts for Trade after $1.8 Billion IPO
+- Jim Cramer on Vicor: “If You Don’t Own It, Please Be Patient”
+- NVIDIA Wins. America Loses
+- Smartphone demand dip is driving OneAssist diversification
+- YABATECH’s transition to varsity on course, says rector
 
 
 ---
