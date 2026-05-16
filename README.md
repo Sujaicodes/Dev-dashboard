@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-15 16:52:04
+🕒 Last Updated: 2026-05-16 05:49:18
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 32.1°C  
+Temperature: 36.3°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Senate Banking Committee passes Digital Asset Market Clarity Act
-- Frontiers | AI-driven proactive music therapy in the era of digital mental health
-- Creator journalism is the most disruptive shift the news industry has seen, ex-BBC News head says
-- I'm no Copilot fan, but these 6 new AI skills turned Edge into my favorite mobile browser
-- Claudine Longet Dead: Singer-Actress, Andy Williams Wife Was 84
+- Why Prompt Engineering Alone Is No Longer Enough
+- Three-month closure for regional and remote courthouses
+- GitHub - tqbf/mdv: Markdown Viewer · GitHub
+- AI as Social Technology
+- Where Are All The Data Centers?
 
 
 ---
