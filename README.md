@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-17 06:17:18
+🕒 Last Updated: 2026-05-17 10:20:56
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 39.3°C  
-Condition: Mist
+Temperature: 41.4°C  
+Condition: Overcast
 
 ---
 
 ## 📰 Top Tech News
-- Indonesia Eyes Cannes 2028 Country of Honor as Culture Minister Fadli Zon Pushes Global Screen Agenda (EXCLUSIVE)
-- Drink-driving: If your chance of being caught is 1 in 77, where is the deterrent?
-- Europe lacks everything needed to make its stock market a winner
-- Why bags get flagged at TSA security? #travel
-- Cliff Taylor: Meta workers are bracing for another round of job cuts. We should all be nervous
+- Asus enters the RAM market during the largest memory shortage in history, 48GB kit lands at $880 — brand's first DDR5 kit makes the RTX 5070 Ti look like a bargain
+- We tested 20 wall chargers, from cheap to expensive, to see what we would find - from 15-140W, with screens and without, to arm you with the knowledge to pick a good one out of a sea of mediocrity
+- State, developers discuss future of data centers in West Virginia during Eastern Panhandle Lunch and Learn
+- Israeli Noam Bettan has been rehearsing for Eurovision with fake boos
+- AI Voice Cloning: The Technology Behind It, Who’s Building It, and Where It’s Headed
 
 
 ---
