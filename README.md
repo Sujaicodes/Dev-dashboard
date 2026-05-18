@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-18 06:51:29
+🕒 Last Updated: 2026-05-18 12:27:16
 
 ---
 
 ## 🌦️ Weather in Lucknow
 Temperature: 41.3°C  
-Condition: Mist
+Condition: Overcast
 
 ---
 
 ## 📰 Top Tech News
-- Rejected by US visa, welcomed by NASA: Meet Dr. Anand Megalingam, a tractor driver's son, who built one of India’s rising space-tech cos
-- India and Netherlands ink 17 pacts, elevate ties to strategic partnership
-- Arsenal names Israeli-founded Deel as new shirt sleeve sponsor
-- 33 magnificently random things made by car makers
-- Treasures of the BMW museum
+- 2017 Mercedes-Benz S550 Sedan at No Reserve
+- Flownex Simulation Environment 2026 R1 v9.1.0.6441
+- Researchers Claim Anthropic’s Mythos Helped Crack macOS Security
+- Researchers Claim Anthropic’s Mythos Helped Crack macOS Security
+- Defence and surveillance: ICEYE to launch satellite production in India
 
 
 ---
