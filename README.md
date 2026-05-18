@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-17 15:59:25
+🕒 Last Updated: 2026-05-18 06:51:29
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 34.4°C  
+Temperature: 41.3°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Kolter Urban Selects FirstService Residential to Manage Art House St. Petersburg
-- Tata Electronics partners with ASML in preparation of India’s first commerical semicon Fab
-- Action Energy Company secures KD 40.9m in credit facilities to support rig expansion
-- Seagate and Western Digital: AI Storage Demand Is Now Showing Up in Pricing Power
-- Paul Boutilier, Stanley Cup champ and former curling executive, remembered for his humility
+- Rejected by US visa, welcomed by NASA: Meet Dr. Anand Megalingam, a tractor driver's son, who built one of India’s rising space-tech cos
+- India and Netherlands ink 17 pacts, elevate ties to strategic partnership
+- Arsenal names Israeli-founded Deel as new shirt sleeve sponsor
+- 33 magnificently random things made by car makers
+- Treasures of the BMW museum
 
 
 ---
