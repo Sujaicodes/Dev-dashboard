@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-19 06:43:30
+🕒 Last Updated: 2026-05-19 12:07:05
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 37.2°C  
+Temperature: 39.1°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Brunson and the Knicks host Cleveland to begin Eastern Conference finals
-- Why These 5 Ray-Ban Meta Accessories Are Essential For 2026
-- India's indigenous cooking gas alternative takes shape in Pune lab
-- The Changing Face of Heart Care: Conversations That Build Patient Confidence
-- PM Modi departs for Norway after concluding Sweden visit
+- KUMHO TIRE U.S.A. ANNOUNCES ROAD VENTURE HT HIGHWAY-TERRAIN TIRE
+- YY Group (NASDAQ: YYGH) Expands Malaysia Operations to Melaka, Entering New High-Growth Hospitality Market
+- RI Govt cracks down on phone scams, blocks 3,000 fraudulent numbers
+- Myseum.AI Highlights Continuing Progress on AI Development Roadmap, Technology Advancements and Growth Initiatives in Letter to Shareholders
+- Xeriant’s Brig. Gen. Blaine Holt (ret.) to Guest Host “Your News Talk America” for 3 Hours Daily Starting Monday, May 18, 2026
 
 
 ---
