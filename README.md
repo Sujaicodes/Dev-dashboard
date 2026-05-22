@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-22 11:43:54
+🕒 Last Updated: 2026-05-22 17:09:19
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 42.3°C  
+Temperature: 31.1°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Bridging the mainframe skills gap
-- Berkshire Hathaway Sold 16 Stocks in Q1 but Warren Buffett and Greg Abel Still Have 70% in Just 7 Stocks
-- I loved a lot of things about the Dell XPS 14 (2026), but it won't make me ditch my MacBook Pro... yet
-- JPMorgan's Jamie Dimon says bank chief's viral AI comment was 'inartful'
-- CRML Executes a 15-Year Binding Definitive Off-Take Agreement for Tanbreez with REalloys Inc. Which Supports US Defense & National Security Industrial Base Supply Chains
+- Zuckerberg Tells the Tattered Remainder of His Workers That He Won’t Conduct Another a Mass Firing for at Least Seven Months
+- Patent Scientist – Law Firm – Multiple Locations
+- Fundstrat’s Tom Lee Outlines Three Critical Tests That Could Impact the Broader Stock Market in the Next Few Months
+- Trump says he's postponing signing an executive order on AI out of concern it would hurt AI industry
+- How Fanatics Turns 2 Billion Daily Fan Signals Into Sales
 
 
 ---
