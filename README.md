@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-22 06:44:32
+🕒 Last Updated: 2026-05-22 11:43:54
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 37.1°C  
+Temperature: 42.3°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- InCoax expands addressable market with Fiber Extension for faster fiber customer activation
-- Google’s Gemini Smart Glasses Make Meta Ray-Bans Look Outdated
-- InCoax expands addressable market with Fiber Extension for faster fiber customer activation
-- Amazfit Bipシリーズに同価格帯最高クラスのスペックを凝縮した「MAX」が登場。スクエア型スマートウォッチの常識を塗り替える万能モデル、遂に登場！
-- Eureka Robotics、「ROBOT TECHNOLOGY JAPAN 2026」に出展
+- Bridging the mainframe skills gap
+- Berkshire Hathaway Sold 16 Stocks in Q1 but Warren Buffett and Greg Abel Still Have 70% in Just 7 Stocks
+- I loved a lot of things about the Dell XPS 14 (2026), but it won't make me ditch my MacBook Pro... yet
+- JPMorgan's Jamie Dimon says bank chief's viral AI comment was 'inartful'
+- CRML Executes a 15-Year Binding Definitive Off-Take Agreement for Tanbreez with REalloys Inc. Which Supports US Defense & National Security Industrial Base Supply Chains
 
 
 ---
