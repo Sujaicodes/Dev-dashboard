@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-21 17:31:02
+🕒 Last Updated: 2026-05-22 06:44:32
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 37.7°C  
-Condition: Clear
+Temperature: 37.1°C  
+Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- RTI International to Demonstrate CarbonBridge Bioprocessing Technology Under New Collaboration
-- What actually makes hybrid cars fuel-efficient?
-- HashKey Capital Fund Announces $40M Strategic Investment in SignalPlus
-- IBM Z’s decade of growth finds new footing as hybrid AI infrastructure becomes cornerstone
-- Columbia’s Energy Tech Conference Spotlights the Race for AI’s Clean Power Future
+- InCoax expands addressable market with Fiber Extension for faster fiber customer activation
+- Google’s Gemini Smart Glasses Make Meta Ray-Bans Look Outdated
+- InCoax expands addressable market with Fiber Extension for faster fiber customer activation
+- Amazfit Bipシリーズに同価格帯最高クラスのスペックを凝縮した「MAX」が登場。スクエア型スマートウォッチの常識を塗り替える万能モデル、遂に登場！
+- Eureka Robotics、「ROBOT TECHNOLOGY JAPAN 2026」に出展
 
 
 ---
