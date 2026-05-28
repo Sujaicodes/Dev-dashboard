@@ -30,12 +30,6 @@ Condition: Mist
 ## 🔥 Daily Update
 Keeping the repo active automatically!
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sujaicodes&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujaicodes&layout=compact)
-
 ---
 
 ## ⚡ About
