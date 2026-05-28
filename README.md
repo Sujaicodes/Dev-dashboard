@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-27 17:57:30
+🕒 Last Updated: 2026-05-28 06:49:03
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 32.1°C  
+Temperature: 33.2°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Technical deep dive: AgentCore payments and innovation in agentic commerce
-- Privacy commissioner to monitor security upgrades after Manage My Health hack
-- US, UK clash with France over children’s online safety at G7 meet
-- SNC Scandic Coin Launches on BingX, BitMart, LBank, and Biconomy as a Regulated Real-World Asset Project
-- David Beckham To Speak At Forbes Iconoclast 2026 Summit, Convening The World’s Most Influential Business Leaders
+- Venture Catalysts ++ to showcase 12 curated startups seeking to raise around $46 mn at Demo Day 7
+- Moon base plans revealed as Nasa chief says ‘the grand return is close at hand’
+- 【光沢物対応】“見えない”をなくす3次元ビジョン
+- Betting on war is not an option in Australia. Prediction markets could change that
+- IARシステムズ主催、ミラクシア共催でウェビナー「マイコンEOL時代の開発戦略」を6月10日に開催― EOL時代に破綻しない設計と対応とは ―
 
 
 ---
