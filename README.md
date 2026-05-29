@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-29 16:51:21
+🕒 Last Updated: 2026-05-29 20:24:10
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 28.2°C  
+Temperature: 25.4°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- PHLX Semiconductor Index posts best start to year on record, hitting $5.7 trillion
-- Alternative Ballistics Corporation to Present at the Small Cap Growth Virtual Investor Conference on June 4th
-- Microsoft Allegedly Leaked Dutch Civil Servants' Data To the US
-- Warby Parker to enter new category with Intelligent Eyewear
-- Alessian Triumphs with Four International Awards
+- P320 CASE DISMISSED IN MASSACHUSETTS FEDERAL COURT
+- Sal Ternullo: Near achieves product market fit with AI-driven transactions, cross-chain capabilities enhance user experience, and the token is undervalued based on fundamentals | Bankless
+- Tom Hanks on Toy Story 5: 'I didn't ask any questions'
+- Everything We Know About ‘Toy Story 5’ So Far
+- China: Nuclear and Missile Proliferation [Iranian Supplier]
 
 
 ---
