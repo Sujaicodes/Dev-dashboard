@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-30 10:46:18
+🕒 Last Updated: 2026-05-30 14:44:45
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 39.8°C  
-Condition: Sunny
+Temperature: 35.5°C  
+Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- Why firms are quietly rehiring staff AI was supposed to replace
-- In His “Radical Centralism” Essay, Tony Blair Is, As Always, Talking His Book
-- Kerala to launch Women Farmers Consortium to transform agriculture sector, boost rural economy
-- KuCoin CMO at BEYOND Expo: "Trust Is Becoming the New Infrastructure" for Web3
-- European commissioners discuss reducing reliance on China
+- Chinese proverb of the day: 'Watch till clouds part to see...' Life lessons on patience, hardship, success, and why one should never give up even in darkest times
+- Meet the Black women on Fortune’s Most Powerful Women list shaping business leadership
+- Google Health, Google’s AI, AI Psychosis, More: ResearchBuzz AI Update, May 29, 2026
+- Lagos agency approves 17,279 building permits in 10 months
+- Meta vs Microsoft Stocks 2026: Which Tech Giant Is the Better Buy?
 
 
 ---
