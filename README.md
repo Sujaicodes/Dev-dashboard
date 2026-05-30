@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-29 20:24:10
+🕒 Last Updated: 2026-05-30 10:46:18
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 25.4°C  
-Condition: Mist
+Temperature: 39.8°C  
+Condition: Sunny
 
 ---
 
 ## 📰 Top Tech News
-- P320 CASE DISMISSED IN MASSACHUSETTS FEDERAL COURT
-- Sal Ternullo: Near achieves product market fit with AI-driven transactions, cross-chain capabilities enhance user experience, and the token is undervalued based on fundamentals | Bankless
-- Tom Hanks on Toy Story 5: 'I didn't ask any questions'
-- Everything We Know About ‘Toy Story 5’ So Far
-- China: Nuclear and Missile Proliferation [Iranian Supplier]
+- Why firms are quietly rehiring staff AI was supposed to replace
+- In His “Radical Centralism” Essay, Tony Blair Is, As Always, Talking His Book
+- Kerala to launch Women Farmers Consortium to transform agriculture sector, boost rural economy
+- KuCoin CMO at BEYOND Expo: "Trust Is Becoming the New Infrastructure" for Web3
+- European commissioners discuss reducing reliance on China
 
 
 ---
