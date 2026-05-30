@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-30 14:44:45
+🕒 Last Updated: 2026-05-30 19:13:43
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 35.5°C  
+Temperature: 30.1°C  
 Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- Chinese proverb of the day: 'Watch till clouds part to see...' Life lessons on patience, hardship, success, and why one should never give up even in darkest times
-- Meet the Black women on Fortune’s Most Powerful Women list shaping business leadership
-- Google Health, Google’s AI, AI Psychosis, More: ResearchBuzz AI Update, May 29, 2026
-- Lagos agency approves 17,279 building permits in 10 months
-- Meta vs Microsoft Stocks 2026: Which Tech Giant Is the Better Buy?
+- NEAR Protocol targets AI-driven commerce with new products and tokenomics improvements
+- Customer Hilariously Calls Out Target Pants After Noticing Awkward Detail: “Men Designed These”
+- Intel and 3DGS to establish $3.3B substrate plant in India
+- 'AI adoption has become a game of chance': Employees are being left to navigate AI tools on their own as businesses fail to implement proper training
+- What we do - Content Marketing | RAB2B
 
 
 ---
