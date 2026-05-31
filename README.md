@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-05-31 10:55:10
+🕒 Last Updated: 2026-05-31 14:51:39
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 38.9°C  
-Condition: Sunny
+Temperature: 32.8°C  
+Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- ‘Toy Story’ Franchise Will Change Forever Next Month, Fourth Movie To Be Taken Down
-- G7 Agrees On Shared Language Around Open-Source AI, Open Weights AI
-- Why Energy Storage Is Quietly Becoming the Backbone of India’s EV Growth
-- Mercedes pulls out of Alpine F1 share talks over asking price
-- Mercedes pulls out of Alpine F1 share talks over asking price
+- The groupthink boom: what three top VCs really think about the AI frenzy | TechCrunch
+- Twilio CMO says AI-first marketing means rebuilding from scratch, not just working faster
+- Warren Buffett Berkshire Hathaway 2026 Portfolio Shifts: Major Sells and New Buys Under Greg Abel
+- AI Job Grief: The Unnamed Psychological Crisis Hitting Tech Workers
+- Is SpaceX & Tesla 100-Gigawatt/Year US Solar System Production Plan Realistic?
 
 
 ---
