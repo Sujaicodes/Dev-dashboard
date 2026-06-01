@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-01 18:45:40
+🕒 Last Updated: 2026-06-01 21:31:54
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 32.4°C  
-Condition: Clear
+Temperature: 28.1°C  
+Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- This Is My Best Artificial Intelligence (AI) Stock to Buy in June (Hint: It's Not Micron Technology)
-- US Congress moves to deepen military ties with Israel: Why it matters
-- Glyco Harmony Drops [URGENT REPORT 2026] GlycoHarmony Shocking Complete Scientific Breakdown of Benefits Everyone Is Talking
-- Family lawyers say there has been an uptick in 'prenup' interest
-- How the House Financial Services Committee is taking on tokenization: State of Crypto
+- Wall Street Risk Rally Powers Past War Stalemate
+- China’s factory activity slows in May, raising questions over its economy
+- Sandisk Corporation (SNDK): Leopold Aschenbrenner Is Backing This Memory Firm
+- As Pentagon pushes for battlefield AI, some military leaders urge caution
+- Mark Duplass Says ‘Obsession’ And ‘Backrooms’ Box Office Wins Offer A “Glimmer Of Hope” In “Fractured” Industry
 
 
 ---
