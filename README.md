@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-02 17:46:56
+🕒 Last Updated: 2026-06-02 20:47:46
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 34.6°C  
+Temperature: 33.2°C  
 Condition: Clear
 
 ---
 
 ## 📰 Top Tech News
-- Mercedes-Benz Potentially Shut Out Of U.S. Market By Poorly-Written Congressional Bill
-- The Future of Mental Health Is Mental Wealth
-- Mitel CX solves the sovereign cloud problem for communications
-- ROG turns 20: ASUS introduces G1000 Edition 20, Xbox Ally X20, and outlines AI future
-- Savills Promotes Allyson Bowen to Vice Chair of NY Office
+- The Challenges Of Managing Payroll For Remote And Global Teams
+- This World Record Breaking Laser Wirelessly Powered A Robot For 24 Hours
+- 'A Web of Deceit': Florida Sues OpenAI Over ChatGPT Safety Concerns
+- Wired for War: could Anduril scam the US into an Indo-Pacific apocalypse?
+- The Navy wants next-generation munitions, so it’s spending millions on innovation hubs
 
 
 ---
