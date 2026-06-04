@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-04 16:26:31
+🕒 Last Updated: 2026-06-04 20:04:46
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 34.3°C  
+Temperature: 31.0°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Tata Motors rethinks its premium EV playbook
-- Belmont Park rebuild nears the finish line as the Belmont Stakes is a year from returning home
-- Abingdon Health plc to Present at the Small Cap Growth Virtual Investor Conference June 4th
-- Scott Pelley ripped for claiming he was 'in combat' in Afghanistan and Iraq after CBS News firing
-- APsystems Unveils New Hybrid & Off-Grid Energy Storage Solutions at SNEC 2026
+- The Tim Ferriss Show Transcripts: Tim’s Founder Kitchen — From Brainstorm to the President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics) (#868)
+- SPARC AI Inc. Announces Closing of First Tranche of Brokered LIFE Financing for $4.34 Million from an Institutional Investor
+- Five Below, Inc. Announces First Quarter Fiscal 2026 Financial Results
+- Expedia Tech Exec on Build Versus Buy: Keep Customer Data Close
+- IM Cannabis Raises US$225,000 of Gross Proceeds in Convertible Note Financing
 
 
 ---
