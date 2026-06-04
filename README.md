@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-03 20:54:28
+🕒 Last Updated: 2026-06-04 11:50:03
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 30.3°C  
+Temperature: 37.1°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Canadian Stocks Index Hits 35,000 Amid Rally in Energy
-- Arm Holdings CEO says US faces near-impossible challenge in banning AI CPU chip exports to China
-- Stock Market Today: Dow, S&P 500 set to extend longest win streaks of the year, while Nasdaq wavers; Alphabet, Microsoft slide; Bitcoin below $68,000 - Mark
-- Constellation Energy advances plans for 2027 Three Mile Island restart
-- INVO Fertility Receives Nasdaq Notification Regarding Late Filing of Quarterly Report on Form 10-Q
+- Town’s AI assistants learn your life—Andreessen Horowitz and Forerunner just backed the vision with $55 million
+- PONY AI Inc. Announces Inclusion of its Class A Ordinary Shares in the Shanghai-Hong Kong Stock Connect Program
+- Technology Frontier Observation: Thian Ong Financial Academy Insights Into Industry Development Trends From the Silicon Valley AI Summit
+- Supermicro Collaborates with Arm to Deliver a New Class of Energy-Efficient Rack-Scale Infrastructure for Enterprise Agentic AI
+- Movate and Leena AI Partner to Advance AI-Led Employee Experience
 
 
 ---
