@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-04 20:04:46
+🕒 Last Updated: 2026-06-05 12:06:35
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 31.0°C  
+Temperature: 36.3°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- The Tim Ferriss Show Transcripts: Tim’s Founder Kitchen — From Brainstorm to the President’s Office in Two Months (Featuring Jake Becraft, Strand Therapeutics) (#868)
-- SPARC AI Inc. Announces Closing of First Tranche of Brokered LIFE Financing for $4.34 Million from an Institutional Investor
-- Five Below, Inc. Announces First Quarter Fiscal 2026 Financial Results
-- Expedia Tech Exec on Build Versus Buy: Keep Customer Data Close
-- IM Cannabis Raises US$225,000 of Gross Proceeds in Convertible Note Financing
+- The Open Group Publishes Industrial Advanced Nuclear™ Consortium’s Inaugural Application Scenarios Whitepaper
+- Mobix Labs to Acquire U.S.-Built Drone Manufacturer Vision Aerial, Expanding Into Global Drone and Aerial Intelligence Markets
+- Harbourfront Wealth Group to Acquire Cumberland Private Wealth
+- NTT DATA Named a Market Leader in HFS Horizons: Agentic Services, 2026 Research Report
+- Winning the cyber marathon with Tony Giandomenico
 
 
 ---
