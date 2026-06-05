@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-05 12:06:35
+🕒 Last Updated: 2026-06-05 16:06:58
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 36.3°C  
+Temperature: 34.2°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- The Open Group Publishes Industrial Advanced Nuclear™ Consortium’s Inaugural Application Scenarios Whitepaper
-- Mobix Labs to Acquire U.S.-Built Drone Manufacturer Vision Aerial, Expanding Into Global Drone and Aerial Intelligence Markets
-- Harbourfront Wealth Group to Acquire Cumberland Private Wealth
-- NTT DATA Named a Market Leader in HFS Horizons: Agentic Services, 2026 Research Report
-- Winning the cyber marathon with Tony Giandomenico
+- NVIDIA’s AI PC push may open opportunities for India’s semicon ecosystem
+- Walmart CEO John Furner worked his way up from the garden center. After 30 years, he’s sharing the one trait that matters most in his job
+- Why Hotel AI Keeps Cutting Costs Instead of Making Money
+- Motorola Moto G Stylus (2026)
+- Espresso Translations Achieves ATC Certification, Strengthening Its Position as the Leading Official Translation Agency in London
 
 
 ---
