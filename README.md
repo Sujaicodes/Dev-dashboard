@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-07 19:20:29
+🕒 Last Updated: 2026-06-08 13:04:56
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 33.2°C  
+Temperature: 38.2°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Julian Jessop: Weak productivity growth since the financial crisis, the AI revolution will drive economic expansion, and excessive regulation hinders corporate performance | The Peter McCormack Show
-- Your Charger Is On Display for 23 Hours a Day, ORNA Designed for That
-- YouTubers take over Hollywood: Smash film Backrooms by 'loner' director, 20, is latest low-budget project to top Box Office
-- Fed's Mary Daly has blunt message for AI stock investors
-- Quote of the day by Sandra Bullock: 'As connected as we are with technology, it's also removed us from having to...' - inspiring life lessons on dark side of technology, and relationships in the digital age by The Proposal, Ocean's 8 and The Lost City actress
+- France and Cyprus to sign defense pact for French deployment to island
+- Ethereum (ETH) News: Foundation cuts and departures aren't a crisis, Joe Lubin says
+- Incuspaze acquires iKeva in 100% buyout, adds ₹100 crore revenue boost
+- Why the Leaked iPhone Ultra Fold Changes Everything
+- This Ultrasonic Knife Is More Than Just a Gimmick—at Least Sometimes
 
 
 ---
