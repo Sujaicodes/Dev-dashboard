@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-11 16:59:31
+🕒 Last Updated: 2026-06-11 20:20:34
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 29.0°C  
+Temperature: 28.1°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Eva Live Signs Letter of Intent to Acquire Psquared, Supercharging Its AI-Powered Performance Marketing Platform in a $1 Trillion Digital Ad Market
-- Fisher Funds warns S&P 500 concentration poses risk for Kiwi investors
-- Why global investors could make Auckland a safe haven for growth - Simon Bridges
-- UPDATE - Volcano Engine and Bingo Group's Milestone AI+IP Collaboration Launching June 10 Across Multiple Chinese Platforms, Announced by Data Hash
-- OECD report warns high capital costs slowing Kiwi business investment - Graham Law
+- Amazon Secures $17.5 Billion Credit Facility Amid AI Infrastructure Race
+- Toll Brothers Announces Final Opportunity to Own a New Luxury Home at University Park in Palm Desert, California
+- 2 Things The '60s Got Right About Space Exploration (And 2 Things They Got Wrong)
+- Modern Digital Transformation Strategies Every Growth Brand Needs for Competitive Advantage — Dots Loves Marketing | Transparent Marketing Strategies
+- Onity Group to Present at Upcoming Investor Conference
 
 
 ---
