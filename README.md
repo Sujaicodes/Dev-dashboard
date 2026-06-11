@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-10 20:28:53
+🕒 Last Updated: 2026-06-11 12:42:52
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 30.1°C  
-Condition: Overcast
+Temperature: 33.3°C  
+Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Want to Upgrade Your Switch Games to Switch 2? It Might Cost You Nothing (or $20 per Game)
-- United States men’s national team embraces pressure ahead of 2026 World Cup
-- Allison Automatic Transmissions to Enhance Next-Generation Tactical Trucks for French Land Forces in Multi-Million Dollar Program
-- Balancing What’s New with What Works: Isko’s Fabric Strategy
-- Stockland builds AI assistant as a bridge into SAP
+- Warren Buffett’s $400 Billion Is Going Nowhere for Now: Here’s Why Berkshire Hathaway Is My Top Pick for the Next 20 Years
+- Alibaba Shares Drop on China AI Infrastructure Spending Report, but Citi Sees Long-Term Benefits (BABA)
+- Zoho unveils India-designed server as AI boom pushes up infra costs
+- ICO strips commissioner Edwards of responsibilities in HR inquiry
+- AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis
 
 
 ---
