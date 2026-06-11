@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-11 12:42:52
+🕒 Last Updated: 2026-06-11 16:59:31
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 33.3°C  
+Temperature: 29.0°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Warren Buffett’s $400 Billion Is Going Nowhere for Now: Here’s Why Berkshire Hathaway Is My Top Pick for the Next 20 Years
-- Alibaba Shares Drop on China AI Infrastructure Spending Report, but Citi Sees Long-Term Benefits (BABA)
-- Zoho unveils India-designed server as AI boom pushes up infra costs
-- ICO strips commissioner Edwards of responsibilities in HR inquiry
-- AI will help young workers 'mature' faster by automating grunt work, Thoma Bravo says, amid youth job crisis
+- Eva Live Signs Letter of Intent to Acquire Psquared, Supercharging Its AI-Powered Performance Marketing Platform in a $1 Trillion Digital Ad Market
+- Fisher Funds warns S&P 500 concentration poses risk for Kiwi investors
+- Why global investors could make Auckland a safe haven for growth - Simon Bridges
+- UPDATE - Volcano Engine and Bingo Group's Milestone AI+IP Collaboration Launching June 10 Across Multiple Chinese Platforms, Announced by Data Hash
+- OECD report warns high capital costs slowing Kiwi business investment - Graham Law
 
 
 ---
