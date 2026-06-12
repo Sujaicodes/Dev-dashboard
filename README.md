@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-11 20:20:34
+🕒 Last Updated: 2026-06-12 12:17:07
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 28.1°C  
+Temperature: 34.1°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Amazon Secures $17.5 Billion Credit Facility Amid AI Infrastructure Race
-- Toll Brothers Announces Final Opportunity to Own a New Luxury Home at University Park in Palm Desert, California
-- 2 Things The '60s Got Right About Space Exploration (And 2 Things They Got Wrong)
-- Modern Digital Transformation Strategies Every Growth Brand Needs for Competitive Advantage — Dots Loves Marketing | Transparent Marketing Strategies
-- Onity Group to Present at Upcoming Investor Conference
+- Small-reactor startup Antares Nuclear achieves self-sustaining nuclear reaction at Idaho lab
+- 15 standout products from High-End Vienna, the yearly showcase of glorious audiophile indulgence
+- Blair Duron Chooses TAB Bank for a $2 Million Asset-Based Lending Facility to Lay the Groundwork for Growth
+- Dow Jones| Nasdaq | US Stock Market Today | Live: US futures rise on tech rebound, easing Middle East tensions
+- Prince William enjoys a cup of tea and dishes out hugs at Norfolk-based mental health charity
 
 
 ---
