@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-12 20:09:20
+🕒 Last Updated: 2026-06-13 11:11:51
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 30.3°C  
+Temperature: 34.1°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- How many people earn minimum wage? And why are so many just above?
-- How a Photographer Handmade His Dream 8×10 Camera for Everyone
-- I Am Artemis: Elkin Norena
-- 10 'Summerween' Horror Movies For 'Backrooms' Fans
-- Aduro Clean Technologies Announces Closing $15.54 Million Underwritten Public Offering
+- Betway Appoints Don Jazzy as Brand Ambassador for Nigeria
+- NECA Applauds Google.org for Support of the electrical training ALLIANCE and Skilled Trades Growth
+- BBVA partners with OpenAI to advance AI-native banking operations
+- Why Electronic Component Sourcing Is Still So Opaque
+- Labour MP Jess Asato launches legal action over Grok deepfakes
 
 
 ---
