@@ -7,22 +7,22 @@
 
 # 🚀 Sujai's Dev Dashboard
 
-🕒 Last Updated: 2026-06-14 15:11:45
+🕒 Last Updated: 2026-06-14 19:25:10
 
 ---
 
 ## 🌦️ Weather in Lucknow
-Temperature: 33.1°C  
+Temperature: 30.2°C  
 Condition: Mist
 
 ---
 
 ## 📰 Top Tech News
-- Outlook - June 22, 2026
-- The Economist Asia Edition - 13 June 2026
-- FIFA taps Alireza Faghani for France vs Senegal at 2026 World Cup, marking historic fourth tournament
-- Tech experts pitch for Sovereign AI as US blocks access to Anthropic’s Fable 5, Mythos 5
-- Why the Galaxy Z Fold 8 Wide is Samsung’s Answer to the iPhone Fold
+- Mozilla Data Collective seeks to build AI’s data economy around trust
+- Senior class put York Suburban boys volleyball back on track
+- Lenovo Legion Tab Gen 3 FIFA World Cup 26 now available in the US, but it isn't worth buying
+- UT austin researchers develop a jacket that pulls drinkable water from the air
+- The Sculptural Speaker Concept That Sounds Good From Every Spot in the Room
 
 
 ---
